@@ -1,7 +1,6 @@
 fieldset {
-    width: 25%;
-    background-color: white;
-    border-radius: 20px;
+    width: 30%;
+    background-color: pink;
 }
 .button {
     border-radius: 25px;
@@ -27,13 +26,12 @@ fieldset {
 body {
     background-color: lightblue;
 }
-label {
-    font-family: verdana;
-    font-size: 20px;
-    text-shadow: 1px 1px;
-}     
 p {
     font-family: verdana;
     font-size: 20px;
     text-shadow: 1px 1px;
-}
+}   
+fieldset {
+width: 5%;
+}  
+   
